@@ -6,3 +6,4 @@
 10000001 - Pong
 01110101 - Ten-pin bowling
 01000101 - Rocket and moon
+01010011 - 8-bit
