@@ -1,0 +1,8 @@
+00111001 - Hot dog and burgers
+11100111 - Catz!
+01111111 - ASCII 
+00101010 - Space
+10001000 - Analog synths
+10000001 - Pong
+01110101 - Ten-pin bowling
+01000101 - Rocket and moon
